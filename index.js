@@ -1,7 +1,8 @@
 let fruits = [
     {id: 1, title: 'Яблоки', price: 20, img: 'https://lifeglobe.net/x/entry/6259/1a-0.jpg'},
     {id: 2, title: 'Апельсины', price: 30, img: 'https://grandkulinar.ru/uploads/posts/2014-07/1404571972_apelsiny.jpg'},
-    {id: 3, title: 'Манго', price: 40, img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVjNIbDpWuPJjCmBZRpdyGd1Hv_9uGNIErxg&usqp=CAU'}
+    {id: 3, title: 'Манго', price: 40, img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVjNIbDpWuPJjCmBZRpdyGd1Hv_9uGNIErxg&usqp=CAU'},
+    {id: 4, title: 'Бананы', price: 50, img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrakaD2j-1uEQRGGqh8T5HOVHUvG0jo1dQA&usqp=CAU'}
 ]
 
 const toHTML = fruit => `
